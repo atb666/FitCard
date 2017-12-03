@@ -1,0 +1,7 @@
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\bin\WebApplication.dll
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\bin\WebApplication.pdb
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\bin\BL.dll
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\bin\BL.pdb
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache

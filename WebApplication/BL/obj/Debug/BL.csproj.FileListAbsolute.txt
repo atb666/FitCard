@@ -1,0 +1,4 @@
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\BL\bin\Debug\BL.dll
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\BL\bin\Debug\BL.pdb
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\BL\obj\Debug\BL.dll
+C:\Users\Anderson\Desktop\Projetos\FitCard\WebApplication\BL\obj\Debug\BL.pdb
